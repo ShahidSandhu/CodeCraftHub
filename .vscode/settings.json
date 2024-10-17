@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {},
+    "workbench.colorCustomizations": {
+    "editor.background": "#2f2f2f",
+    "editor.selectionBackground": "#02a702",
+    "editor.foreground": "#ffffff"
+  }
+
+}
